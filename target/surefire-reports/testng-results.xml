@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="11530" started-at="2018-10-05T11:03:31Z" finished-at="2018-10-05T11:03:42Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="11530" started-at="2018-10-05T11:03:31Z" finished-at="2018-10-05T11:03:42Z">
+      <class name="com.tvsnext.cicd.jenkins.AppFunctionTest">
+        <test-method status="PASS" signature="testApplication()[pri:0, instance:com.tvsnext.cicd.jenkins.AppFunctionTest@189b5fb1]" name="testApplication" duration-ms="11493" started-at="2018-10-05T11:03:31Z" finished-at="2018-10-05T11:03:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testApplication -->
+      </class> <!-- com.tvsnext.cicd.jenkins.AppFunctionTest -->
+      <class name="com.tvsnext.cicd.jenkins.NxtCalcTest">
+        <test-method status="PASS" signature="addTest()[pri:0, instance:com.tvsnext.cicd.jenkins.NxtCalcTest@783ec989]" name="addTest" duration-ms="2" started-at="2018-10-05T11:03:42Z" finished-at="2018-10-05T11:03:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTest -->
+        <test-method status="PASS" signature="subtractTest()[pri:0, instance:com.tvsnext.cicd.jenkins.NxtCalcTest@783ec989]" name="subtractTest" duration-ms="0" started-at="2018-10-05T11:03:42Z" finished-at="2018-10-05T11:03:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subtractTest -->
+      </class> <!-- com.tvsnext.cicd.jenkins.NxtCalcTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
