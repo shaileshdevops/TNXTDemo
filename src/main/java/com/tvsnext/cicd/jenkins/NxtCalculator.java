@@ -13,7 +13,7 @@ public class NxtCalculator {
 	// Method to subtract 2 numbers
 		public int multiplyNumbers(int numberOne, int numberTwo) {
 			int u = 20;
-			System.out.println("Yahooooooo");
+			System.out.println("Yahoooo");
 			return numberOne*numberTwo;
 		}
 }
